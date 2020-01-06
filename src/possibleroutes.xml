@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour>
+<artist>R.E.M.</artist>
+<title>Tour 2005</title>
+<event>
+<place name="ColorLine Arena">
+<address reach="local">Sylvesterallee, 22525 Hamburg</address>
+</place>
+<spam>WS 2004/05, Gunar Fiedler, ISE@CAU 9
+2 XML-Verarbeitung XML-Verarbeitung
+</spam>
+<date day="17" hour="20" minute="0" month="2" year="2005"/>
+</event>
+<artist>u2</artist>
+<title>Experience Tour 2015</title>
+<event>
+<place name="">
+<address reach="local">München, Olympiastadion, Woauch-Immer</address>
+</place>
+<spam></spam>
+<date day="19" hour="18" minute="3" month="1" year="1982"/>
+</event>
+</tour>
